@@ -11,3 +11,5 @@ text = "test@example.com"
 match = re.match(pattern, text)
 print(bool(match))  # Output: True
 ```
+
+Continue to [Text Extraction](./Text_Extraction.md)
