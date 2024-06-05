@@ -1,6 +1,55 @@
-# Guide to Regular Expressions (Regex) with Python
 
-This repository contains a comprehensive guide to using regular expressions (regex) with Python, tailored for data scientists.
+
+
+# Regex Guide with Python
+
+Welcome to the **Regex Guide with Python**! This repository is designed to help data scientists and developers quickly get up to speed with using regular expressions in Python.
+
+## Overview
+
+Regular Expressions (Regex) are powerful tools for text processing. This guide covers the essential syntax, practical examples, and advanced topics to enhance your text manipulation skills.
+
+## Contents
+
+1. **Introduction to Regex**
+   - Basics of regular expressions and their applications.
+   
+2. **Regex Syntax and Patterns**
+   - Detailed explanations of regex components:
+     - Basic Characters
+     - Character Classes
+     - Quantifiers
+     - Anchors
+     - Groups and Capturing
+     - Special Sequences
+     - Lookahead and Lookbehind
+
+3. **Using Regex in Python**
+   - How to use the `re` module in Python:
+     - Common functions like `search`, `match`, `findall`, and `sub`
+     - Compiling regex patterns
+
+4. **Practical Examples**
+   - Real-world use cases:
+     - Data validation
+     - Text extraction
+     - Data cleaning
+
+5. **Advanced Topics**
+   - Performance considerations
+   - Debugging regex patterns
+
+## Getting Started
+
+1. **Clone the repository:**
+   ```sh
+   https://github.com/Naviden/Regex-For-Python.git
+   cd Regex-For-Python
+   ```
+
+2. **Explore the guide:**
+   - Start with the `README.md` and follow the links to detailed markdown files for each topic.
+
 
 ## Table of Contents
 1. [Introduction to Regex](./Introduction_to_Regex.md)
@@ -23,3 +72,8 @@ This repository contains a comprehensive guide to using regular expressions (reg
 5. [Advanced Topics](./Advanced_Topics.md)
     - [Performance Considerations](./Performance_Considerations.md)
     - [Debugging Regex](./Debugging_Regex.md)
+
+
+## Contributing
+
+Contributions are welcome! If you have improvements or new examples, please feel free to submit a pull request.
